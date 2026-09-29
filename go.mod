@@ -1,0 +1,3 @@
+module software-maintenance-agent
+
+go 1.27.1
